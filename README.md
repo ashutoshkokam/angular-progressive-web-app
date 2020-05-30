@@ -1,10 +1,14 @@
-# NgPwaApp
+## Angular Progressive Web Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
+## Demo
+
+Visit the link here for demo : https://angular-progressive-webapp.netlify.app/
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://127.0.0.1:8080/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

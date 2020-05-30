@@ -7,7 +7,7 @@ import { SwUpdate } from "@angular/service-worker";
   styleUrls: ["./app.component.css"],
 })
 export class AppComponent {
-  title = "Angular Progressive Web App Demo - Version 1";
+  title = "Angular Progressive Web App Demo - Version 1.0";
   constructor(private swUpdate: SwUpdate) {
     if (this.swUpdate.isEnabled) {
       this.swUpdate.available.subscribe(() => {

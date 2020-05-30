@@ -12,14 +12,15 @@
           "/manifest.webmanifest",
           "/*.css",
           "/*.js"
-        ], 
-      "urls": [
-        "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
-        "https://fonts.googleapis.com/icon?family=Material+Icons",
-        "https://fonts.gstatic.com/**"
-      ]
+        ],
+        "urls": [
+          "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
+          "https://fonts.googleapis.com/icon?family=Material+Icons",
+          "https://fonts.gstatic.com/**"
+        ]
       }
-    }, {
+    },
+    {
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
@@ -34,9 +35,7 @@
   "dataGroups": [
     {
       "name": "posts",
-      "urls": [
-        "https://jsonplaceholder.typicode.com/posts"
-      ],
+      "urls": ["https://jsonplaceholder.typicode.com/posts"],
       "cacheConfig": {
         "maxSize": 5,
         "maxAge": "6h",

@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Demo
 
 Visit the link here for demo : https://angular-progressive-webapp.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82854157-144e-4001-97d7-e640acabcc18/deploy-status)](https://app.netlify.com/sites/angular-progressive-webapp/deploys)
 
 ## Development server
 
